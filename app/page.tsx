@@ -34,32 +34,41 @@ export default function Home() {
       </section>
 
       <section className="border-t border-slate-200 bg-slate-50">
-        <div className="mx-auto grid max-w-6xl gap-8 px-6 py-16 md:grid-cols-3">
-          <div>
-            <h2 className="text-xl font-bold">Broken Spring Repair</h2>
-            <p className="mt-3 text-slate-600">
-              Garage door spring problems are one of the most common reasons a
-              door gets stuck, feels heavy, or will not open safely.
-            </p>
-          </div>
+  <div className="mx-auto grid max-w-6xl gap-8 px-6 py-16 md:grid-cols-3">
+    <a
+      href="/garage-door-spring-repair-portland"
+      className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm"
+    >
+      <h2 className="text-xl font-bold">Broken Spring Repair</h2>
+      <p className="mt-3 text-slate-600">
+        Garage door spring problems are one of the most common reasons a
+        door gets stuck, feels heavy, or will not open safely.
+      </p>
+    </a>
 
-          <div>
-            <h2 className="text-xl font-bold">Garage Door Opener Repair</h2>
-            <p className="mt-3 text-slate-600">
-              We help troubleshoot opener issues, remote problems, sensors,
-              keypads, and doors that stop halfway.
-            </p>
-          </div>
+    <a
+      href="/garage-door-opener-repair-portland"
+      className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm"
+    >
+      <h2 className="text-xl font-bold">Garage Door Opener Repair</h2>
+      <p className="mt-3 text-slate-600">
+        We help troubleshoot opener issues, remote problems, sensors,
+        keypads, and doors that stop halfway.
+      </p>
+    </a>
 
-          <div>
-            <h2 className="text-xl font-bold">Emergency Garage Door Service</h2>
-            <p className="mt-3 text-slate-600">
-              If your garage door is stuck open, stuck closed, or off track, we
-              help connect you with fast local service.
-            </p>
-          </div>
-        </div>
-      </section>
+    <a
+      href="/garage-door-repair-portland"
+      className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm"
+    >
+      <h2 className="text-xl font-bold">Emergency Garage Door Service</h2>
+      <p className="mt-3 text-slate-600">
+        If your garage door is stuck open, stuck closed, or off track, we
+        help connect you with fast local service.
+      </p>
+    </a>
+  </div>
+</section>
 
       <section className="mx-auto max-w-6xl px-6 py-16">
         <h2 className="text-3xl font-bold">Serving the Portland Metro Area</h2>
