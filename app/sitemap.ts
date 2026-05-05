@@ -8,5 +8,13 @@ export default function sitemap() {
       url: "https://pdxgaragepros.com/garage-door-repair-portland",
       lastModified: new Date(),
     },
+    {
+      url: "https://pdxgaragepros.com/garage-door-spring-repair-portland",
+      lastModified: new Date(),
+    },
+    {
+      url: "https://pdxgaragepros.com/garage-door-opener-repair-portland",
+      lastModified: new Date(),
+    },
   ];
 }
