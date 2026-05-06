@@ -1,20 +1,12 @@
-import { Geist, Geist_Mono } from "next/font/google";
+import type { Metadata } from "next";
 import "./globals.css";
+import Navbar from "@/components/Navbar";
+import Footer from "@/components/Footer";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
-});
-
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
-});
-
-export const metadata = {
+export const metadata: Metadata = {
   title: "Garage Door Repair Portland OR | PDX Garage Pros",
   description:
-    "Fast, reliable garage door repair in Portland, Oregon. Broken springs, opener repair, off-track doors, and same-day service in Portland, Beaverton, Hillsboro, and nearby areas.",
+    "Fast garage door repair in Portland, Oregon. Broken springs, opener repair, off-track doors, emergency service, and nearby metro service areas.",
 };
 
 export default function RootLayout({
@@ -23,11 +15,12 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html
-      lang="en"
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
-    >
-      <body className="min-h-full flex flex-col">{children}</body>
+    <html lang="en">
+      <body>
+        <Navbar />
+        {children}
+        <Footer />
+      </body>
     </html>
   );
 }
