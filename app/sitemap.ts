@@ -13,6 +13,9 @@ export default function sitemap() {
     { url: "https://pdxgaragepros.com/garage-door-repair-tigard", lastModified: new Date() },
     { url: "https://pdxgaragepros.com/garage-door-repair-lake-oswego", lastModified: new Date() },
     { url: "https://pdxgaragepros.com/garage-door-repair-tualatin", lastModified: new Date() },
-    { url: "https://pdxgaragepros.com/garage-door-repair-gresham", lastModified: new Date() }
+    { url: "https://pdxgaragepros.com/garage-door-repair-gresham", lastModified: new Date() },
+    { url: "https://pdxgaragepros.com/garage-door-wont-close-portland", lastModified: new Date() },
+    { url: "https://pdxgaragepros.com/noisy-garage-door-portland", lastModified: new Date() },
+    { url: "https://pdxgaragepros.com/garage-door-roller-repair-portland", lastModified: new Date() }
   ];
 }
