@@ -19,8 +19,8 @@ export default function ContactPage() {
           Phone
         </p>
 
-        <a href="tel:+15035551234" className="mt-2 block text-3xl font-bold">
-          (503) 555-1234
+        <a href="tel:+1 (503) 495-3464" className="mt-2 block text-3xl font-bold">
+          (503) 495-3464
         </a>
 
         <p className="mt-8 text-sm font-semibold uppercase tracking-wide text-slate-500">

@@ -24,10 +24,10 @@ export default function Page() {
           </p>
           <div className="mt-8 flex flex-col gap-3 sm:flex-row">
             <a
-              href="tel:+15035551212"
+              href="tel:+15034953464"
               className="rounded-xl bg-amber-400 px-6 py-3 text-center font-bold text-slate-950 shadow-sm hover:bg-amber-300"
             >
-              Call for Garage Door Help
+              Call (503) 495-3464
             </a>
             <a
               href="/contact"
@@ -70,10 +70,10 @@ export default function Page() {
             or is hanging unevenly, avoid forcing it open or closed.
           </p>
           <a
-            href="tel:+15035551212"
+            href="tel:+15034953464"
             className="mt-6 block rounded-xl bg-slate-950 px-5 py-3 text-center font-bold text-white hover:bg-slate-800"
           >
-            Call Now
+            Call (503) 495-3464
           </a>
         </aside>
       </section>
