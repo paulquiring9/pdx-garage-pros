@@ -1,10 +1,10 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Garage Door Opener Repair in Portland | PDX Garage Pros",
-  description: "Garage door opener not working? Get help with opener motors, remotes, sensors, wall buttons, and doors that will not open or close reliably.",
+  title: "Garage Door Off Track Repair in Portland | PDX Garage Pros",
+  description: "Garage door off track in Portland? Get help with crooked doors, jammed rollers, bent tracks, and doors that will not open safely.",
   alternates: {
-    canonical: "https://www.pdxgaragepros.com/garage-door-opener-repair-portland",
+    canonical: "https://www.pdxgaragepros.com/garage-door-off-track-portland",
   },
 };
 
@@ -17,10 +17,10 @@ export default function Page() {
             Portland Garage Door Repair
           </p>
           <h1 className="max-w-3xl text-4xl font-bold tracking-tight md:text-6xl">
-            Garage Door Opener Repair in Portland
+            Garage Door Off Track Repair in Portland
           </h1>
           <p className="mt-6 max-w-2xl text-lg leading-8 text-slate-200">
-            Garage door opener not working? Get help with opener motors, remotes, sensors, wall buttons, and doors that will not open or close reliably.
+            Garage door off track in Portland? Get help with crooked doors, jammed rollers, bent tracks, and doors that will not open safely.
           </p>
           <div className="mt-8 flex flex-col gap-3 sm:flex-row">
             <a
@@ -43,17 +43,17 @@ export default function Page() {
         <div>
           <h2 className="text-3xl font-bold tracking-tight">What usually causes this problem?</h2>
           <p className="mt-4 text-lg leading-8 text-slate-700">
-            When the opener stops working, the door may still be mechanically fine. The issue could be the motor, safety sensors, wall control, remote, wiring, travel limits, or the opener rail system.
+            A door that comes off track can bind, lean, scrape, or stop completely. This can happen from damaged rollers, loose hardware, impact, cable issues, or track misalignment.
           </p>
 
           <h2 className="mt-10 text-3xl font-bold tracking-tight">Common warning signs</h2>
           <ul className="mt-5 grid gap-3 text-slate-700 sm:grid-cols-2">
-              <li>Door hums but will not move</li>
-              <li>Remote or keypad stopped working</li>
-              <li>Door reverses before closing</li>
-              <li>Wall button works but remote does not</li>
-              <li>Opener light flashes or clicks</li>
-              <li>Door opens partway then stops</li>
+              <li>Door looks crooked or uneven</li>
+              <li>Rollers have popped out of the track</li>
+              <li>Door scrapes or jams</li>
+              <li>Track looks bent or separated</li>
+              <li>Door will not open or close smoothly</li>
+              <li>Cables appear loose on one side</li>
           </ul>
 
           <h2 className="mt-10 text-3xl font-bold tracking-tight">What to do next</h2>
@@ -82,9 +82,9 @@ export default function Page() {
         <div className="mx-auto max-w-6xl px-6 py-14">
           <h2 className="text-3xl font-bold tracking-tight">Related garage door problems</h2>
           <div className="mt-6 grid gap-4 md:grid-cols-3">
-              <a href="/garage-door-wont-close-portland" className="rounded-xl border border-slate-200 bg-white p-4 font-medium text-slate-900 shadow-sm hover:bg-slate-50">Garage Door Won’t Close</a>
-              <a href="/noisy-garage-door-portland" className="rounded-xl border border-slate-200 bg-white p-4 font-medium text-slate-900 shadow-sm hover:bg-slate-50">Noisy Garage Door</a>
               <a href="/garage-door-roller-repair-portland" className="rounded-xl border border-slate-200 bg-white p-4 font-medium text-slate-900 shadow-sm hover:bg-slate-50">Roller Repair</a>
+              <a href="/garage-door-cable-repair-portland" className="rounded-xl border border-slate-200 bg-white p-4 font-medium text-slate-900 shadow-sm hover:bg-slate-50">Garage Door Cable Repair</a>
+              <a href="/noisy-garage-door-portland" className="rounded-xl border border-slate-200 bg-white p-4 font-medium text-slate-900 shadow-sm hover:bg-slate-50">Noisy Garage Door</a>
           </div>
         </div>
       </section>
