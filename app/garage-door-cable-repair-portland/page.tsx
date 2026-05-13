@@ -56,10 +56,15 @@ export default function Page() {
               <li>Door came off track after cable failure</li>
           </ul>
 
+          <h2 className="mt-10 text-3xl font-bold tracking-tight">Related repair issues to check</h2>
+          <p className="mt-4 text-lg leading-8 text-slate-700">
+            Cable problems are closely tied to spring tension and off-track movement. If one side of the door rises faster, the opener strains, or the door hangs crooked, stop using the system until it is checked.
+          </p>
+
           <h2 className="mt-10 text-3xl font-bold tracking-tight">What to do next</h2>
           <p className="mt-4 text-lg leading-8 text-slate-700">
             Stop running the opener if the door is crooked, stuck, unusually loud, or visibly damaged.
-            Continued use can turn a simple repair into a larger track, cable, roller, or opener issue.
+            Continued use can turn a simple repair into a larger track, cable, roller, spring, or opener issue.
           </p>
         </div>
 
@@ -84,7 +89,9 @@ export default function Page() {
           <div className="mt-6 grid gap-4 md:grid-cols-3">
               <a href="/garage-door-off-track-portland" className="rounded-xl border border-slate-200 bg-white p-4 font-medium text-slate-900 shadow-sm hover:bg-slate-50">Garage Door Off Track</a>
               <a href="/broken-garage-door-spring-portland" className="rounded-xl border border-slate-200 bg-white p-4 font-medium text-slate-900 shadow-sm hover:bg-slate-50">Broken Spring Repair</a>
-              <a href="/garage-door-roller-repair-portland" className="rounded-xl border border-slate-200 bg-white p-4 font-medium text-slate-900 shadow-sm hover:bg-slate-50">Roller Repair</a>
+              <a href="/garage-door-roller-repair-portland" className="rounded-xl border border-slate-200 bg-white p-4 font-medium text-slate-900 shadow-sm hover:bg-slate-50">Garage Door Roller Repair</a>
+              <a href="/emergency-garage-door-repair-portland" className="rounded-xl border border-slate-200 bg-white p-4 font-medium text-slate-900 shadow-sm hover:bg-slate-50">Emergency Garage Door Repair</a>
+              <a href="/garage-door-wont-close-portland" className="rounded-xl border border-slate-200 bg-white p-4 font-medium text-slate-900 shadow-sm hover:bg-slate-50">Garage Door Won’t Close</a>
           </div>
         </div>
       </section>

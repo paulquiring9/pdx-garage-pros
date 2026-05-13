@@ -1,7 +1,12 @@
-export const metadata = {
+import type { Metadata } from "next";
+export const metadata: Metadata = {
+
   title: "Contact PDX Garage Pros | Portland Garage Door Repair",
   description:
     "Contact PDX Garage Pros for garage door repair in Portland and surrounding metro areas.",
+  alternates: {
+    canonical: "https://www.pdxgaragepros.com/contact",
+  },
 };
 
 export default function ContactPage() {
@@ -19,7 +24,7 @@ export default function ContactPage() {
           Phone
         </p>
 
-        <a href="tel:+1 (503) 495-3464" className="mt-2 block text-3xl font-bold">
+        <a href="tel:+15034953464" className="mt-2 block text-3xl font-bold">
           (503) 495-3464
         </a>
 

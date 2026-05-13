@@ -1,8 +1,13 @@
+import type { Metadata } from "next";
 import ServicePage from "@/components/ServicePage";
 
-export const metadata = {
+export const metadata: Metadata = {
+
   title: "Garage Door Off Track Repair Portland OR | PDX Garage Pros",
   description: "Garage door off-track repair in Portland, Oregon.",
+  alternates: {
+    canonical: "https://www.pdxgaragepros.com/garage-door-off-track-portland",
+  },
 };
 
 export default function Page() {

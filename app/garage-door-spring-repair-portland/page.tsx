@@ -1,8 +1,13 @@
+import type { Metadata } from "next";
 import ServicePage from "@/components/ServicePage";
 
-export const metadata = {
+export const metadata: Metadata = {
+
   title: "Garage Door Spring Repair Portland OR | PDX Garage Pros",
   description: "Broken garage door spring repair in Portland, Oregon.",
+  alternates: {
+    canonical: "https://www.pdxgaragepros.com/garage-door-spring-repair-portland",
+  },
 };
 
 export default function Page() {

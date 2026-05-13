@@ -56,6 +56,11 @@ export default function Page() {
               <li>Track or roller hardware looks loose</li>
           </ul>
 
+          <h2 className="mt-10 text-3xl font-bold tracking-tight">Related repair issues to check</h2>
+          <p className="mt-4 text-lg leading-8 text-slate-700">
+            Bad rollers can look like a noisy door problem at first, but they can also lead to track damage if ignored. If the door is crooked or a roller has popped out, avoid forcing the opener and check the off-track and cable repair pages too.
+          </p>
+
           <h2 className="mt-10 text-3xl font-bold tracking-tight">What to do next</h2>
           <p className="mt-4 text-lg leading-8 text-slate-700">
             Stop running the opener if the door is crooked, stuck, unusually loud, or visibly damaged.
@@ -85,6 +90,8 @@ export default function Page() {
               <a href="/noisy-garage-door-portland" className="rounded-xl border border-slate-200 bg-white p-4 font-medium text-slate-900 shadow-sm hover:bg-slate-50">Noisy Garage Door</a>
               <a href="/garage-door-off-track-portland" className="rounded-xl border border-slate-200 bg-white p-4 font-medium text-slate-900 shadow-sm hover:bg-slate-50">Garage Door Off Track</a>
               <a href="/garage-door-cable-repair-portland" className="rounded-xl border border-slate-200 bg-white p-4 font-medium text-slate-900 shadow-sm hover:bg-slate-50">Garage Door Cable Repair</a>
+              <a href="/garage-door-wont-close-portland" className="rounded-xl border border-slate-200 bg-white p-4 font-medium text-slate-900 shadow-sm hover:bg-slate-50">Garage Door Won’t Close</a>
+              <a href="/garage-door-opener-repair-portland" className="rounded-xl border border-slate-200 bg-white p-4 font-medium text-slate-900 shadow-sm hover:bg-slate-50">Garage Door Opener Repair</a>
           </div>
         </div>
       </section>

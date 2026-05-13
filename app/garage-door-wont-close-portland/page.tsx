@@ -56,6 +56,11 @@ export default function Page() {
               <li>Door is crooked, jammed, or unusually loud</li>
           </ul>
 
+          <h2 className="mt-10 text-3xl font-bold tracking-tight">Related repair issues to check</h2>
+          <p className="mt-4 text-lg leading-8 text-slate-700">
+            If the door reverses before it reaches the floor, start by looking at the safety sensors and track area. If the door is also crooked, loud, or hard to move by hand, it may connect to a roller, cable, spring, or off-track issue instead of a simple opener setting.
+          </p>
+
           <h2 className="mt-10 text-3xl font-bold tracking-tight">What to do next</h2>
           <p className="mt-4 text-lg leading-8 text-slate-700">
             Stop running the opener if the door is crooked, stuck, unusually loud, or visibly damaged.
@@ -84,7 +89,9 @@ export default function Page() {
           <div className="mt-6 grid gap-4 md:grid-cols-3">
               <a href="/garage-door-opener-repair-portland" className="rounded-xl border border-slate-200 bg-white p-4 font-medium text-slate-900 shadow-sm hover:bg-slate-50">Garage Door Opener Repair</a>
               <a href="/garage-door-off-track-portland" className="rounded-xl border border-slate-200 bg-white p-4 font-medium text-slate-900 shadow-sm hover:bg-slate-50">Garage Door Off Track</a>
-              <a href="/garage-door-roller-repair-portland" className="rounded-xl border border-slate-200 bg-white p-4 font-medium text-slate-900 shadow-sm hover:bg-slate-50">Roller Repair</a>
+              <a href="/garage-door-cable-repair-portland" className="rounded-xl border border-slate-200 bg-white p-4 font-medium text-slate-900 shadow-sm hover:bg-slate-50">Garage Door Cable Repair</a>
+              <a href="/broken-garage-door-spring-portland" className="rounded-xl border border-slate-200 bg-white p-4 font-medium text-slate-900 shadow-sm hover:bg-slate-50">Broken Spring Repair</a>
+              <a href="/noisy-garage-door-portland" className="rounded-xl border border-slate-200 bg-white p-4 font-medium text-slate-900 shadow-sm hover:bg-slate-50">Noisy Garage Door</a>
           </div>
         </div>
       </section>

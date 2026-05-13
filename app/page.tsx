@@ -1,4 +1,14 @@
+import type { Metadata } from "next";
 import Link from "next/link";
+
+export const metadata: Metadata = {
+  title: "Garage Door Repair Portland OR | PDX Garage Pros",
+  description:
+    "Fast garage door repair in Portland, Oregon. Broken springs, opener repair, off-track doors, emergency service, and nearby metro service areas.",
+  alternates: {
+    canonical: "https://www.pdxgaragepros.com",
+  },
+};
 
 const serviceLinks = [
   ["/garage-door-repair-portland", "Garage Door Repair Portland"],

@@ -56,10 +56,15 @@ export default function Page() {
               <li>Door opens partway then stops</li>
           </ul>
 
+          <h2 className="mt-10 text-3xl font-bold tracking-tight">Related repair issues to check</h2>
+          <p className="mt-4 text-lg leading-8 text-slate-700">
+            Opener problems often overlap with doors that will not close, noisy doors, and doors that are too heavy for the motor to lift. If the opener strains or the door opens only a few inches, check spring and cable symptoms too.
+          </p>
+
           <h2 className="mt-10 text-3xl font-bold tracking-tight">What to do next</h2>
           <p className="mt-4 text-lg leading-8 text-slate-700">
             Stop running the opener if the door is crooked, stuck, unusually loud, or visibly damaged.
-            Continued use can turn a simple repair into a larger track, cable, roller, or opener issue.
+            Continued use can turn a simple repair into a larger track, cable, roller, spring, or opener issue.
           </p>
         </div>
 
@@ -83,8 +88,10 @@ export default function Page() {
           <h2 className="text-3xl font-bold tracking-tight">Related garage door problems</h2>
           <div className="mt-6 grid gap-4 md:grid-cols-3">
               <a href="/garage-door-wont-close-portland" className="rounded-xl border border-slate-200 bg-white p-4 font-medium text-slate-900 shadow-sm hover:bg-slate-50">Garage Door Won’t Close</a>
+              <a href="/broken-garage-door-spring-portland" className="rounded-xl border border-slate-200 bg-white p-4 font-medium text-slate-900 shadow-sm hover:bg-slate-50">Broken Spring Repair</a>
               <a href="/noisy-garage-door-portland" className="rounded-xl border border-slate-200 bg-white p-4 font-medium text-slate-900 shadow-sm hover:bg-slate-50">Noisy Garage Door</a>
-              <a href="/garage-door-roller-repair-portland" className="rounded-xl border border-slate-200 bg-white p-4 font-medium text-slate-900 shadow-sm hover:bg-slate-50">Roller Repair</a>
+              <a href="/garage-door-cable-repair-portland" className="rounded-xl border border-slate-200 bg-white p-4 font-medium text-slate-900 shadow-sm hover:bg-slate-50">Garage Door Cable Repair</a>
+              <a href="/emergency-garage-door-repair-portland" className="rounded-xl border border-slate-200 bg-white p-4 font-medium text-slate-900 shadow-sm hover:bg-slate-50">Emergency Garage Door Repair</a>
           </div>
         </div>
       </section>
