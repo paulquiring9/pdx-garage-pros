@@ -33,7 +33,12 @@ const pricing = [
   { href: "/garage-door-frozen-portland", label: "Frozen Door Help" },
 ];
 
-function DropdownMenu({ label, items, open, onToggle }) {
+function DropdownMenu({ label, items, open, onToggle }: {
+  label: string;
+  items: { href: string; label: string }[];
+  open: boolean;
+  onToggle: () => void;
+}) {
   return (
     <div className="relative">
       <button
@@ -72,8 +77,8 @@ function DropdownMenu({ label, items, open, onToggle }) {
 }
 
 export default function Navbar() {
-  const [open, setOpen] = useState(null);
-  const toggle = (menu) => setOpen((prev) => (prev === menu ? null : menu));
+  const [open, setOpen] = useState<string | null>(null);
+  const toggle = (menu: string) => setOpen((prev) => (prev === menu ? null : menu));
 
   return (
     <header className="border-b border-slate-200 bg-white">
