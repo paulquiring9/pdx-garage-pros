@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+﻿import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
@@ -55,10 +55,10 @@ const issues = [
 
 export default function Page() {
   return (
-    <main className="bg-white text-slate-950">
-      <section className="border-b border-slate-200 bg-slate-950 text-white">
+    <main className="bg-white text-[#00482B]">
+      <section className="border-b border-slate-200 bg-[#00482B] text-white">
         <div className="mx-auto max-w-6xl px-6 py-16 md:py-24">
-          <p className="mb-4 text-sm font-semibold uppercase tracking-[0.2em] text-amber-300">
+          <p className="mb-4 text-sm font-semibold uppercase tracking-[0.2em] text-[#d69a00]">
             Portland, Oregon · 2026 Pricing
           </p>
           <h1 className="max-w-3xl text-4xl font-bold tracking-tight md:text-6xl">
@@ -72,7 +72,7 @@ export default function Page() {
           <div className="mt-8 flex flex-col gap-3 sm:flex-row">
             <a
               href="tel:+15034953464"
-              className="rounded-xl bg-amber-400 px-6 py-3 text-center font-bold text-slate-950 shadow-sm hover:bg-amber-300"
+              className="rounded-xl bg-[#d69a00] px-6 py-3 text-center font-bold text-[#00482B] shadow-sm hover:bg-[#c48a00]"
             >
               Call (503) 495-3464
             </a>
@@ -207,14 +207,14 @@ export default function Page() {
                 </dl>
               </div>
 
-              <div className="rounded-2xl bg-slate-950 p-6 text-white">
+              <div className="rounded-2xl bg-[#00482B] p-6 text-white">
                 <h3 className="text-base font-bold">Not sure what's wrong?</h3>
                 <p className="mt-2 text-sm leading-6 text-slate-300">
                   Call and describe what the opener is doing — or not doing. We can help you figure out whether it's the opener, a spring, or something else before a technician arrives.
                 </p>
                 <a
                   href="tel:+15034953464"
-                  className="mt-4 block rounded-xl bg-amber-400 px-5 py-3 text-center font-bold text-slate-950 hover:bg-amber-300"
+                  className="mt-4 block rounded-xl bg-[#d69a00] px-5 py-3 text-center font-bold text-[#00482B] hover:bg-[#c48a00]"
                 >
                   Call (503) 495-3464
                 </a>

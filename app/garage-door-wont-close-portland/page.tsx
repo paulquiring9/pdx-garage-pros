@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+﻿import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Garage Door Won’t Close in Portland | PDX Garage Pros",
@@ -10,10 +10,10 @@ export const metadata: Metadata = {
 
 export default function Page() {
   return (
-    <main className="bg-white text-slate-950">
-      <section className="border-b border-slate-200 bg-slate-950 text-white">
+    <main className="bg-white text-[#00482B]">
+      <section className="border-b border-slate-200 bg-[#00482B] text-white">
         <div className="mx-auto max-w-6xl px-6 py-16 md:py-24">
-          <p className="mb-4 text-sm font-semibold uppercase tracking-[0.2em] text-amber-300">
+          <p className="mb-4 text-sm font-semibold uppercase tracking-[0.2em] text-[#d69a00]">
             Portland Garage Door Repair
           </p>
           <h1 className="max-w-3xl text-4xl font-bold tracking-tight md:text-6xl">
@@ -25,7 +25,7 @@ export default function Page() {
           <div className="mt-8 flex flex-col gap-3 sm:flex-row">
             <a
               href="tel:+15034953464"
-              className="rounded-xl bg-amber-400 px-6 py-3 text-center font-bold text-slate-950 shadow-sm hover:bg-amber-300"
+              className="rounded-xl bg-[#d69a00] px-6 py-3 text-center font-bold text-[#00482B] shadow-sm hover:bg-[#c48a00]"
             >
               Call (503) 495-3464
             </a>
@@ -76,7 +76,7 @@ export default function Page() {
           </p>
           <a
             href="tel:+15034953464"
-            className="mt-6 block rounded-xl bg-slate-950 px-5 py-3 text-center font-bold text-white hover:bg-slate-800"
+            className="mt-6 block rounded-xl bg-[#00482B] px-5 py-3 text-center font-bold text-white hover:bg-[#003d22]"
           >
             Call (503) 495-3464
           </a>

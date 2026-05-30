@@ -30,36 +30,34 @@ const cityLinks = [
 
 export default function Home() {
   return (
-    <main className="min-h-screen bg-white text-slate-900">
-      <section className="mx-auto max-w-6xl px-6 py-20">
-        <p className="mb-4 text-sm font-semibold uppercase tracking-wide text-slate-500">
-          Portland Garage Door Repair
-        </p>
-
-        <h1 className="max-w-4xl text-4xl font-bold tracking-tight md:text-6xl">
-          Fast Garage Door Repair in Portland, Oregon
-        </h1>
-
-        <p className="mt-6 max-w-2xl text-lg leading-8 text-slate-600">
-          PDX Garage Pros helps homeowners across Portland, Beaverton, Hillsboro,
-          Tigard, Lake Oswego, and nearby areas with garage door repair, broken
-          springs, opener problems, cables, off-track doors, and emergency service.
-        </p>
-
-        <div className="mt-8 flex flex-col gap-4 sm:flex-row">
-          <a
-            href="tel:+15035551234"
-            className="rounded-xl bg-slate-900 px-6 py-4 text-center font-semibold text-white"
-          >
-            Call Now
-          </a>
-
-          <Link
-            href="/contact"
-            className="rounded-xl border border-slate-300 px-6 py-4 text-center font-semibold"
-          >
-            Request a Quote
-          </Link>
+    <main className="min-h-screen bg-white text-[#00482B]">
+      <section className="border-b border-slate-200 bg-[#00482B] text-white">
+        <div className="mx-auto max-w-6xl px-6 py-16 md:py-24">
+          <p className="mb-4 text-sm font-semibold uppercase tracking-[0.2em] text-[#d69a00]">
+            Portland Garage Door Repair
+          </p>
+          <h1 className="max-w-4xl text-4xl font-bold tracking-tight md:text-6xl">
+            Fast Garage Door Repair in Portland, Oregon
+          </h1>
+          <p className="mt-6 max-w-2xl text-lg leading-8 text-slate-200">
+            PDX Garage Pros helps homeowners across Portland, Beaverton, Hillsboro,
+            Tigard, Lake Oswego, and nearby areas with garage door repair, broken
+            springs, opener problems, cables, off-track doors, and emergency service.
+          </p>
+          <div className="mt-8 flex flex-col gap-3 sm:flex-row">
+            <a
+              href="tel:+15034953464"
+              className="rounded-xl bg-[#d69a00] px-6 py-3 text-center font-bold text-[#00482B] shadow-sm hover:bg-[#c48a00]"
+            >
+              Call (503) 495-3464
+            </a>
+            <Link
+              href="/contact"
+              className="rounded-xl border border-white/30 px-6 py-3 text-center font-bold text-white hover:bg-white/10"
+            >
+              Request a Quote
+            </Link>
+          </div>
         </div>
       </section>
 
