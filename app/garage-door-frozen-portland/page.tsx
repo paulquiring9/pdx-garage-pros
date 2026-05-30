@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description:
     "Garage door frozen shut in Portland? Here's how to safely free it, what not to do, and when to call for help. Tips specific to Portland winters.",
   alternates: {
-    canonical: "https://www.pdxgaragepros.com/garage-door-frozen-portland",
+    canonical: "https://pdxgaragepros.com/garage-door-frozen-portland",
   },
 };
 

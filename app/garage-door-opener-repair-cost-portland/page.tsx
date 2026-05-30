@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description:
     "Garage door opener repair costs $100–$300 in Portland. See 2026 price ranges for common opener problems, when repair beats replacement, and what to expect from a service call.",
   alternates: {
-    canonical: "https://www.pdxgaragepros.com/garage-door-opener-repair-cost-portland",
+    canonical: "https://pdxgaragepros.com/garage-door-opener-repair-cost-portland",
   },
 };
 

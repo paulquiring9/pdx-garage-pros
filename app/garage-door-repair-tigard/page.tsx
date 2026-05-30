@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   description:
     "Garage door repair in Tigard, Oregon — broken springs, opener problems, off-track doors, cables, and emergency service for Tigard homeowners.",
   alternates: {
-    canonical: "https://www.pdxgaragepros.com/garage-door-repair-tigard",
+    canonical: "https://pdxgaragepros.com/garage-door-repair-tigard",
   },
 };
 

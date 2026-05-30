@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   description:
     "Garage door repair in Hillsboro, Oregon — broken springs, opener problems, off-track doors, cables, and emergency service for Hillsboro and Washington County homeowners.",
   alternates: {
-    canonical: "https://www.pdxgaragepros.com/garage-door-repair-hillsboro",
+    canonical: "https://pdxgaragepros.com/garage-door-repair-hillsboro",
   },
 };
 

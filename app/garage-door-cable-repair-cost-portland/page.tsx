@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description:
     "Garage door cable repair costs $100–$250 in Portland. See 2026 price ranges, what causes cables to snap, and what to do when a cable breaks.",
   alternates: {
-    canonical: "https://www.pdxgaragepros.com/garage-door-cable-repair-cost-portland",
+    canonical: "https://pdxgaragepros.com/garage-door-cable-repair-cost-portland",
   },
 };
 

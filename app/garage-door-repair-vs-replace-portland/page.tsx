@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description:
     "Should you repair or replace your garage door in Portland? A practical guide to making the right call based on door age, damage type, and real Portland cost data.",
   alternates: {
-    canonical: "https://www.pdxgaragepros.com/garage-door-repair-vs-replace-portland",
+    canonical: "https://pdxgaragepros.com/garage-door-repair-vs-replace-portland",
   },
 };
 

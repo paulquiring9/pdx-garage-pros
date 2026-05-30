@@ -4,7 +4,7 @@ export const metadata: Metadata = {
   title: "Noisy Garage Door Repair in Portland | PDX Garage Pros",
   description: "Noisy garage door in Portland? Get help with grinding, squeaking, rattling, popping, worn rollers, loose hardware, and opener noise.",
   alternates: {
-    canonical: "https://www.pdxgaragepros.com/noisy-garage-door-portland",
+    canonical: "https://pdxgaragepros.com/noisy-garage-door-portland",
   },
 };
 

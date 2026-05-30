@@ -4,7 +4,7 @@ export const metadata: Metadata = {
   title: "Garage Door Roller Repair in Portland | PDX Garage Pros",
   description: "Garage door roller repair in Portland for worn, noisy, broken, or off-track rollers that make the door rough, loud, or unsafe to operate.",
   alternates: {
-    canonical: "https://www.pdxgaragepros.com/garage-door-roller-repair-portland",
+    canonical: "https://pdxgaragepros.com/garage-door-roller-repair-portland",
   },
 };
 

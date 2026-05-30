@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description:
     "Emergency garage door repair in Portland — stuck open, stuck closed, broken spring, off track, or unsecured. Call (503) 495-3464 for urgent same-day service.",
   alternates: {
-    canonical: "https://www.pdxgaragepros.com/emergency-garage-door-repair-portland",
+    canonical: "https://pdxgaragepros.com/emergency-garage-door-repair-portland",
   },
 };
 

@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   description:
     "Garage door repair in Beaverton, Oregon — broken springs, opener issues, off-track doors, cables, and emergency service for Beaverton homeowners.",
   alternates: {
-    canonical: "https://www.pdxgaragepros.com/garage-door-repair-beaverton",
+    canonical: "https://pdxgaragepros.com/garage-door-repair-beaverton",
   },
 };
 

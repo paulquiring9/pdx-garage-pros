@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   description:
     "Garage door repair in Tualatin, Oregon — broken springs, opener problems, off-track doors, cables, and emergency service for Tualatin homeowners.",
   alternates: {
-    canonical: "https://www.pdxgaragepros.com/garage-door-repair-tualatin",
+    canonical: "https://pdxgaragepros.com/garage-door-repair-tualatin",
   },
 };
 

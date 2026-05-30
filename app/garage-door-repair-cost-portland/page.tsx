@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description:
     "How much does garage door repair cost in Portland? Real 2026 price ranges for springs, openers, cables, rollers, and off-track repairs — plus what drives costs up.",
   alternates: {
-    canonical: "https://www.pdxgaragepros.com/garage-door-repair-cost-portland",
+    canonical: "https://pdxgaragepros.com/garage-door-repair-cost-portland",
   },
 };
 

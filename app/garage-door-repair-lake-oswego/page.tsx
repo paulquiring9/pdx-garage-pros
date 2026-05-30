@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   description:
     "Garage door repair in Lake Oswego, Oregon — broken springs, opener problems, off-track doors, cables, and emergency service for Lake Oswego homeowners.",
   alternates: {
-    canonical: "https://www.pdxgaragepros.com/garage-door-repair-lake-oswego",
+    canonical: "https://pdxgaragepros.com/garage-door-repair-lake-oswego",
   },
 };
 

@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Garage Door Spring Repair Portland OR | PDX Garage Pros",
   description: "Broken garage door spring repair in Portland, Oregon.",
   alternates: {
-    canonical: "https://www.pdxgaragepros.com/garage-door-spring-repair-portland",
+    canonical: "https://pdxgaragepros.com/garage-door-spring-repair-portland",
   },
 };
 

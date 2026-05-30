@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description:
     "Garage door spring replacement costs $158–$400 in Portland. See 2026 price ranges for torsion vs extension springs, what affects cost, and what to ask before hiring.",
   alternates: {
-    canonical: "https://www.pdxgaragepros.com/garage-door-spring-repair-cost-portland",
+    canonical: "https://pdxgaragepros.com/garage-door-spring-repair-cost-portland",
   },
 };
 

@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   description:
     "Garage door repair across Portland, Oregon — broken springs, opener problems, off-track doors, cables, rollers, and emergency service for Portland homeowners.",
   alternates: {
-    canonical: "https://www.pdxgaragepros.com/garage-door-repair-portland",
+    canonical: "https://pdxgaragepros.com/garage-door-repair-portland",
   },
 };
 

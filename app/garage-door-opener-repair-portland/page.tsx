@@ -4,7 +4,7 @@ export const metadata: Metadata = {
   title: "Garage Door Opener Repair in Portland | PDX Garage Pros",
   description: "Garage door opener not working? Get help with opener motors, remotes, sensors, wall buttons, and doors that will not open or close reliably.",
   alternates: {
-    canonical: "https://www.pdxgaragepros.com/garage-door-opener-repair-portland",
+    canonical: "https://pdxgaragepros.com/garage-door-opener-repair-portland",
   },
 };
 

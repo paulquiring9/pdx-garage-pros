@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description:
     "Garage door opener beeping, clicking, or blinking in Portland? Here's what each pattern means, what you can fix yourself, and when to call a technician.",
   alternates: {
-    canonical: "https://www.pdxgaragepros.com/garage-door-opener-beeping-portland",
+    canonical: "https://pdxgaragepros.com/garage-door-opener-beeping-portland",
   },
 };
 

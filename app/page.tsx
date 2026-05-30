@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description:
     "Fast garage door repair in Portland, Oregon. Broken springs, opener repair, off-track doors, emergency service, and nearby metro service areas.",
   alternates: {
-    canonical: "https://www.pdxgaragepros.com",
+    canonical: "https://pdxgaragepros.com",
   },
 };
 

@@ -3,7 +3,7 @@ import "./globals.css";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 
-const siteUrl = "https://www.pdxgaragepros.com";
+const siteUrl = "https://pdxgaragepros.com";
 
 export const metadata: Metadata = {
   title: "Garage Door Repair Portland OR | PDX Garage Pros",

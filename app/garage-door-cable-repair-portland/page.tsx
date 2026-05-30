@@ -4,7 +4,7 @@ export const metadata: Metadata = {
   title: "Garage Door Cable Repair in Portland | PDX Garage Pros",
   description: "Garage door cable repair in Portland for loose, frayed, snapped, or uneven garage door cables.",
   alternates: {
-    canonical: "https://www.pdxgaragepros.com/garage-door-cable-repair-portland",
+    canonical: "https://pdxgaragepros.com/garage-door-cable-repair-portland",
   },
 };
 

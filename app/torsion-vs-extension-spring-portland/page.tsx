@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description:
     "Torsion or extension spring — what's the difference and which do you have? A practical guide for Portland homeowners, with repair costs and what to do when one breaks.",
   alternates: {
-    canonical: "https://www.pdxgaragepros.com/torsion-vs-extension-spring-portland",
+    canonical: "https://pdxgaragepros.com/torsion-vs-extension-spring-portland",
   },
 };
 

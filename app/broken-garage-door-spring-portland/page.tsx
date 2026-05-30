@@ -4,7 +4,7 @@ export const metadata: Metadata = {
   title: "Broken Garage Door Spring Repair in Portland | PDX Garage Pros",
   description: "Broken garage door spring in Portland? Learn the warning signs and get help with heavy doors, snapped springs, and doors that will not lift.",
   alternates: {
-    canonical: "https://www.pdxgaragepros.com/broken-garage-door-spring-portland",
+    canonical: "https://pdxgaragepros.com/broken-garage-door-spring-portland",
   },
 };
 

@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description:
     "Garage door springs last 7–12 years on average. Learn what affects spring lifespan in Portland, how to tell when yours are failing, and what replacement costs.",
   alternates: {
-    canonical: "https://www.pdxgaragepros.com/how-long-do-garage-door-springs-last",
+    canonical: "https://pdxgaragepros.com/how-long-do-garage-door-springs-last",
   },
 };
 

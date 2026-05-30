@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Garage Door Off Track Repair Portland OR | PDX Garage Pros",
   description: "Garage door off-track repair in Portland, Oregon.",
   alternates: {
-    canonical: "https://www.pdxgaragepros.com/garage-door-off-track-portland",
+    canonical: "https://pdxgaragepros.com/garage-door-off-track-portland",
   },
 };
 

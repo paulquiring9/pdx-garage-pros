@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   description:
     "Contact PDX Garage Pros for garage door repair in Portland and surrounding metro areas.",
   alternates: {
-    canonical: "https://www.pdxgaragepros.com/contact",
+    canonical: "https://pdxgaragepros.com/contact",
   },
 };
 

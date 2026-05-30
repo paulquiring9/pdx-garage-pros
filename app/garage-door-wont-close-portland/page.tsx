@@ -4,7 +4,7 @@ export const metadata: Metadata = {
   title: "Garage Door Won’t Close in Portland | PDX Garage Pros",
   description: "Garage door won’t close in Portland? Get help with sensor issues, track problems, opener limits, broken springs, and doors that reverse or stay open.",
   alternates: {
-    canonical: "https://www.pdxgaragepros.com/garage-door-wont-close-portland",
+    canonical: "https://pdxgaragepros.com/garage-door-wont-close-portland",
   },
 };
 

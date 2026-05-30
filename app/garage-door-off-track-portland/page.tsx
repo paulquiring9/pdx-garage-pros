@@ -4,7 +4,7 @@ export const metadata: Metadata = {
   title: "Garage Door Off Track Repair in Portland | PDX Garage Pros",
   description: "Garage door off track in Portland? Get help with crooked doors, jammed rollers, bent tracks, and doors that will not open safely.",
   alternates: {
-    canonical: "https://www.pdxgaragepros.com/garage-door-off-track-portland",
+    canonical: "https://pdxgaragepros.com/garage-door-off-track-portland",
   },
 };
 
